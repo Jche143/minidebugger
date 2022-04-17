@@ -1,0 +1,4 @@
+/home/jche/github/minidebugger/build/CMakeFiles/linenoise.dir
+/home/jche/github/minidebugger/build/CMakeFiles/debugger_.dir
+/home/jche/github/minidebugger/build/CMakeFiles/edit_cache.dir
+/home/jche/github/minidebugger/build/CMakeFiles/rebuild_cache.dir
